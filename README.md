@@ -26,7 +26,7 @@
 
 🎯 Career Goal: Become a Software Developer who builds impactful and scalable solutions.
 
-📫 How to reach me: [rathodsshubham33@gmail.com]
+📫 How to reach me: [vinodchavan9518@gamil.com]
 
 ## 🌐 Portfolio
 Check out my work here: [**My Portfolio**](https://shubhamrathod007.github.io/Shubham-Portfolio/)
@@ -72,9 +72,9 @@ Check out my work here: [**My Portfolio**](https://shubhamrathod007.github.io/Sh
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/prabhakar-more-485a9924b/" target="https://www.linkedin.com/in/prabhakar-more-485a9924b/"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:prabhakarmore0403@gmail.com" target="prabhakarmore0403@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/prabhakarmore007?utm_source=qr&igsh=ZjN2NndpeGlycGdh]" target="https://www.instagram.com/prabhakarmore007?utm_source=qr&igsh=ZjN2NndpeGlycGdh"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/vinod-chavan-21928b331?" target="https://www.linkedin.com/in/vinod-chavan-21928b331?/"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:vinodchavan9518@gmail.com" target="vinodchavan9518@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="gmail" height="30" width="40" /></a>
+  <a href="(https://www.instagram.com/vinodchavan__11?igsh=MXZhejZ1NXZwYWlkZw==)" target="https://www.instagram.com/vinodchavan__11?igsh=MXZhejZ1NXZwYWlkZw=="><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="30" width="40" /></a>
 </p>
 
 ---
