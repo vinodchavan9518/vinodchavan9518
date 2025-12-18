@@ -3,7 +3,7 @@
      <a href="https://github.com/Prabhakar-more"><img src="https://github.com/Prabhakar-more/Prabhakar-more/blob/main/Hello.gif" /></a> 
 </p>
 
-<h1 align="center">Hi 👋, I'm Shubham Rathod</h1>
+<h1 align="center">Hi 👋, I'm Vinod Chavan</h1>
 <h3 align="center">A passionate Software Engineer | Full Stack Java Developer</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5b2316ce41.gif">
@@ -80,21 +80,21 @@ Check out my work here: [**My Portfolio**](https://shubhamrathod007.github.io/Sh
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubham-rathod&show_icons=true&theme=tokyonight" alt="shubham-rathod github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-rathod&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vinodchavan9518&show_icons=true&theme=tokyonight" alt="vinod chavan github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinodchavan9518&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 
 
 
-![shubham rathod GitHub stats](https://github-readme-stats.vercel.app/api?username=shubham-rathod&show_icons=true&theme=radical)
+![Vinod Chavan GitHub stats](https://github-readme-stats.vercel.app/api?username=vinodchavan9518&show_icons=true&theme=radical)
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-rathod&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinodchavan9518&layout=compact&theme=radical)
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubham-rathod&theme=dracula&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vinodchavan9518&theme=dracula&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
