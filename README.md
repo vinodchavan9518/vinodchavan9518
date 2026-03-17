@@ -29,7 +29,7 @@
 📫 How to reach me: [vinodchavan9518@gamil.com]
 
 ## 🌐 Portfolio
-Check out my work here: [My Portfolio](https://vinodchavan9518.github.io/My-Protfolio/)
+Check out my work here: [My Portfolio]( https://vinodchavan9518.github.io/Vinod_Protfolio/)
 
 
 
